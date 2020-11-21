@@ -33,6 +33,6 @@ To start the program, please, do the same steps in your console:
 If you decided to download and extract it. For example, into D:/projects, then do this in your console:
 
     D:
-    cd projects/algo_lab_2-lab_2
+    cd projects/algo_lab_2
     long_poker_algo.py
 
