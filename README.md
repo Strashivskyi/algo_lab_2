@@ -19,8 +19,8 @@
 ## Як запустити програму
 To start the program, please, do the same steps in your console:
 
-    git clone https://github.com/Strashivskyi/algo_lab_2/lab_2
-    cd algo_lab_2-lab_2
+    git clone https://github.com/Strashivskyi/algo_lab_2
+    cd algo_lab_2
     long_poker_algo.py
 
 If you decided to download and extract it. For example, into D:/projects, then do this in your console:
